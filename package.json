@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2"
+  },
+  "name": "logica-e-programacao",
+  "version": "1.0.0",
+  "description": "Atividade da Mentoria 2.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoranchieta/logica-e-programacao.git"
+  },
+  "keywords": [],
+  "author": "Vitor Fagundes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoranchieta/logica-e-programacao/issues"
+  },
+  "homepage": "https://github.com/vitoranchieta/logica-e-programacao#readme"
+}
